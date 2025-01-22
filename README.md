@@ -96,6 +96,7 @@ output_directory/
 
 - Preview updates may lag with high FPS settings or slow hardware.
 - If no cameras are detected, ensure the cameras are properly connected and drivers are installed.
+- It will probably crash when you click stop recording or close, but the videos are saved properly and thats all that matters. Just close the app the hard way and re-open it.
 
 ## Contributing
 
