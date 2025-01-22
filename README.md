@@ -25,7 +25,7 @@ Ensure the following dependencies are installed:
 
 You can install the required Python packages with:
 ```bash
-pip install PySide6 opencv-python-headless numpy
+pip install PySide6 opencv-python numpy
 ```
 
 ## Usage
